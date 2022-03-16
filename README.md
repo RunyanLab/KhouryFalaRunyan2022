@@ -15,3 +15,5 @@ plot_all_pairwise_sound_nc_cdf generates plots from 2D using organization genera
 and get_all_cell_pairwise_sounds_shuf.m 
 
 cdfplot_CFK.m is a custom plotting function adapted from matlab's cdfplot function.
+
+expfits_distbins_sounds.m fits a lambda for each dataset that describes the rate of decay of noise correlations over distance.
