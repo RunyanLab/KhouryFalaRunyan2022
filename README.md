@@ -16,4 +16,4 @@ and get_all_cell_pairwise_sounds_shuf.m
 
 cdfplot_CFK.m is a custom plotting function adapted from matlab's cdfplot function.
 
-expfits_distbins_sounds.m fits a lambda for each dataset that describes the rate of decay of noise correlations over distance.
+expfits_distbins_sounds.m fits a lambda for each dataset that describes the rate of decay of noise correlations over distance, generates plot for Figure 2E.
